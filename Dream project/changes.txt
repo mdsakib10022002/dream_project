@@ -1,0 +1,18 @@
+Main
+    navbar
+        1. Color of hover border navbar
+        2. Logo
+        3. Name
+
+    login
+        1. Background img / color
+        2. Border color and colors
+        3. signup
+            1. yet to design
+        4. Forget password 
+            1. yet to design
+    
+    order and tracking 
+        1. yet to do
+
+    
