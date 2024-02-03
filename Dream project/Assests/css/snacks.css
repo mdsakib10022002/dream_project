@@ -1,0 +1,50 @@
+*{
+    padding:0;
+    margin:0;
+    border:border-box;
+}
+.nav-for-snacks{
+    display:flex;
+    align-items: center;
+    color:rgb(192, 186, 186);
+    height:60px;
+    width:100%;
+    background-color:aquamarine;
+    font-size:x-large
+    
+}
+.back-icon{
+    transition:ease-out;
+}
+.back-icon:hover{
+    font-size:2rem;
+    color:black; 
+}
+.box{
+    display:flex;
+    flex-direction: row;
+    justify-content:space-around;
+    height:100px;
+    width:25%;
+    background-color:brown;
+}
+.box1 {
+    display:flex;
+
+
+}
+.box2 {
+    display:flex;
+
+
+}
+.box3 {
+    display:flex;
+
+
+}
+.box4 {
+    display:flex;
+
+
+}
